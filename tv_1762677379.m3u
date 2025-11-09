@@ -984,22 +984,12 @@ https://live.catvod.com/live.php?id=aljazeera_twn&token=5017fd0890e2220172ba4619
 
 #EXTM3U
 #EXTINF:-1 group-title="龙华系列",龙华电影
-http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
-#EXTINF:-1 group-title="龙华系列",龙华经典
-http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10013/cstv13.m3u8
+http://example.com/stream1.m3u8
+#EXTINF:-1 group-title="龙华系列",龙华经典  
+http://example.com/stream2.m3u8
 #EXTINF:-1 group-title="龙华系列",龙华偶像
-http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8
+http://example.com/stream3.m3u8
 #EXTINF:-1 group-title="龙华系列",龙华戏剧
-http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
+http://example.com/stream4.m3u8
 #EXTINF:-1 group-title="龙华系列",龙华影剧
-http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10015/cstv15.m3u8
-#EXTINF:-1 group-title="龙华系列",龙华洋片
-http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10016/cstv16.m3u8
-#EXTINF:-1 group-title="龙华系列",龙华动画
-http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10017/cstv17.m3u8
-#EXTINF:-1 group-title="龙华系列",龙华卡通
-http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10018/cstv18.m3u8
-#EXTINF:-1 group-title="龙华系列",SMART知识
-http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10019/cstv19.m3u8
-#EXTINF:-1 group-title="龙华系列",龙华日韩
-http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8
+http://example.com/stream5.m3u8

@@ -391,9 +391,6 @@ http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1 tvg-name="人间卫视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/BLTV.png" group-title="台湾频道",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-#EXTINF:-1 tvg-id="LITV.tv" tvg-name="龍華電影" tvg-logo="" group-title="台湾频道",龍華電影
-https://raw.githubusercontent.com/15682116618/litv-movie-hd-auto/refs/heads/main/m3u-files/%E9%BE%8D%E8%8F%AF%E9%9B%BB%E5%BD%B1-%E9%AB%98%E6%B8%85.m3u
-
 #EXTINF:-1 group-title="电影频道",CATCHPLAY电影
 https://live.catvod.com/live.php?id=catchplay_twn&token=2bc008fa6c2fcbb111b8bc00148b8f4cf1b09d1dac37dfbb36a3d29771ba1464%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
 #EXTINF:-1 group-title="电影频道",AMC电影台

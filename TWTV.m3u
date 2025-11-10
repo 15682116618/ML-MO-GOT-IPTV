@@ -378,14 +378,15 @@ https://live.catvod.com/live.php?id=eltayingju_twn&token=7e1521237615308e32c4e46
 
 #EXTINF:-1 group-title="台湾频道",爱尔达综合台
 https://live.catvod.com/live.php?id=eltazonghe_twn&token=08f272aa8106265aad7ae723ae9408fe01709fd5c3ae9bb2f2e7882e066c210d%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
-#EXTINF:-1 group-title="台湾频道",電影TV
-https://raw.githubusercontent.com/15682116618/litv-movie-hd-auto/refs/heads/main/m3u-files/%E9%BE%8D%E8%8F%AF%E9%9B%BB%E5%BD%B1.m3u
-#EXTINF:-1 group-title="台湾频道",經典TV
-https://raw.githubusercontent.com/15682116618/litv-movie-hd-auto/refs/heads/main/m3u-files/%E9%BE%8D%E8%8F%AF%E7%B6%93%E5%85%B8.m3u
-#EXTINF:-1 group-title="台湾频道",戲劇TV
-https://raw.githubusercontent.com/15682116618/litv-movie-hd-auto/refs/heads/main/m3u-files/%E9%BE%8D%E8%8F%AF%E6%88%B2%E5%8A%87.m3u
-#EXTINF:-1 group-title="台湾频道",偶像TV
-https://raw.githubusercontent.com/15682116618/litv-movie-hd-auto/refs/heads/main/m3u-files/%E9%BE%8D%E8%8F%AF%E5%81%B6%E5%83%8F.m3u
+
+#EXTINF:-1 group-title="台湾频道",電影TV（带台标）
+https://cdi.ofiii.com/ocean/video/playlist/aB69k67yoS4/litv-longturn03-avc1_336000=1-mp4a_114000=2.m3u8
+#EXTINF:-1 group-title="台湾频道",經典TV（带台标）
+https://cdi.ofiii.com/ocean/video/playlist/s5nvgi3PVeE/litv-longturn03-avc1_2936000=4-mp4a_114000=2.m3u8
+#EXTINF:-1 group-title="台湾频道",戲劇TV（带台标）
+https://cdi.ofiii.com/ocean/video/playlist/j8L2x9KQjP0/litv-longturn03-avc1_2936000=4-mp4a_114000=2.m3u8
+#EXTINF:-1 group-title="台湾频道",偶像TV（带台标）
+https://cdi.ofiii.com/ocean/video/playlist/6kZ8P3sT7w2/litv-longturn03-avc1_2936000=4-mp4a_114000=2.m3u8
 
 #EXTINF:-1 group-title="台湾频道",亚洲旅游台
 https://live.catvod.com/live.php?id=asiatravel_twn&token=bd3a3159c496e887de5b39d065f4b06e05e581e6cd249b03e274d2aecdcaac85%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D

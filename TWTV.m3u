@@ -1033,3 +1033,7 @@ https://live.catvod.com/live.php?id=tiankongmain&token=e144bc40e625254278fb7a99b
 https://live.catvod.com/live.php?id=tiankongnews&token=be53a7e089b7c78a498cc3a5ace0bd3af4f99d78a23c0d4ad12c69d8380904b8%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
 #EXTINF:-1 group-title="国际频道",Al-Jazeera
 https://live.catvod.com/live.php?id=aljazeera_twn&token=5017fd0890e2220172ba4619a75d66e314ed1cabdb011f3031793c909b1365a1%3A1762677379%3AMTg1LjIyMC4yMzYuNA%3D%3D
+# 台灣頻道開始
+#EXTINF:-1 group-title="台灣頻道" tvg-name="台灣測試",台灣測試
+http://example.com/live/taiwan.m3u8
+# 台灣頻道結束
